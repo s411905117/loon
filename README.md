@@ -8,6 +8,6 @@
 
 Loon脚本订阅配置 ：
 
-Cookie.conf获取Cookie订阅
+https://github.com/s411905117/loon/blob/main/loon_cookie.conf 获取Cookie订阅
 
 Task.conf 定时任务订阅
