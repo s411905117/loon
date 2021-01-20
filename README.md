@@ -10,4 +10,4 @@ Loon脚本订阅配置 ：
 
 [loon_cookie.conf](https://github.com/s411905117/loon/edit/main/loon_cookie.conf) 获取Cookie订阅
 
-Task.conf 定时任务订阅
+[Task.conf](https://github.com/s411905117/loon/blob/main/loon_task.conf) task定时任务订阅 
